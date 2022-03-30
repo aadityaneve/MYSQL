@@ -1,8 +1,15 @@
 
 ## BASIC:
-    CREATE, ALTER, DROP, VIEWS, TRUNCATE
+    TABLE: 
+        CREATE -> ( TABLE || VIEW ...)
+        ALTER
+        DROP
+        TRUNCATE -> ( Remove all data in a table (TRUNCATE TABLE t;) )
 
-    INSERT, UPDATE, DELETE, SELECT
+    MODIFYING DATA:
+        INSERT
+        UPDATE
+        DELETE
 
 ## Comments => --
 
