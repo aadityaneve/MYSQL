@@ -71,6 +71,9 @@
     AS
     DESC => ( DESCENDING )
     
-## BUILT IN FUNCTION:
+## AGGREGATE FUNCTION / BUILT IN FUNCTION:
     MIN
     MAX
+    COUNT
+    AVG
+    SUM
